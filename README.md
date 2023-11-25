@@ -27,6 +27,7 @@ b=int(input())
 t=a
 a=b
 b=t
+print("Swapped values are:",a,b)
 ~~~
 OUTPUT:
 ![image](https://github.com/23006823/Swapping-two-values/assets/138971409/54a3ea06-da5d-4bc0-8953-604f2d522c33)
